@@ -1,0 +1,13 @@
+/Users/aravindk/Projects/Basics/Basics/obj/Debug/netcoreapp3.1/Basics.csproj.AssemblyReference.cache
+/Users/aravindk/Projects/Basics/Basics/obj/Debug/netcoreapp3.1/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aravindk/Projects/Basics/Basics/obj/Debug/netcoreapp3.1/Basics.AssemblyInfoInputs.cache
+/Users/aravindk/Projects/Basics/Basics/obj/Debug/netcoreapp3.1/Basics.AssemblyInfo.cs
+/Users/aravindk/Projects/Basics/Basics/obj/Debug/netcoreapp3.1/Basics.csproj.CoreCompileInputs.cache
+/Users/aravindk/Projects/Basics/Basics/bin/Debug/netcoreapp3.1/Basics.deps.json
+/Users/aravindk/Projects/Basics/Basics/bin/Debug/netcoreapp3.1/Basics.runtimeconfig.json
+/Users/aravindk/Projects/Basics/Basics/bin/Debug/netcoreapp3.1/Basics.runtimeconfig.dev.json
+/Users/aravindk/Projects/Basics/Basics/bin/Debug/netcoreapp3.1/Basics.dll
+/Users/aravindk/Projects/Basics/Basics/bin/Debug/netcoreapp3.1/Basics.pdb
+/Users/aravindk/Projects/Basics/Basics/obj/Debug/netcoreapp3.1/Basics.dll
+/Users/aravindk/Projects/Basics/Basics/obj/Debug/netcoreapp3.1/Basics.pdb
+/Users/aravindk/Projects/Basics/Basics/obj/Debug/netcoreapp3.1/Basics.genruntimeconfig.cache
